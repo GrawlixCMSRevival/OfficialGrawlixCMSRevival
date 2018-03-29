@@ -1,7 +1,8 @@
 <p>There are some repos on GitHub currently supporting the development of the Grawlix CMS. Very grateful for them, but going forward, this repo is going to serve as the official repo for Grawlix CMS development. Nothing personal.</p>
 
 
-# Welcome to the Grawlix CMS Revival. This is the official repo hub for the revival of the Grawlix CMS for webcomic hosting.
+# Welcome to the Grawlix CMS Revival.
+This is the official repo hub for the revival of the Grawlix CMS for webcomic hosting.
 For those unaware, the Grawlix CMS is a tool that helps comic artist publish and manage their own website to host their webcomic without needing to learn any code. Follow along with this readme to get started.
 
 # Requirements
