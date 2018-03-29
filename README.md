@@ -8,12 +8,14 @@ For those unaware, the Grawlix CMS is a tool that helps comic artist publish and
 The Grawlix CMS requires a web host with PHP5 and MySQL. You’ll need a database on the host before you install the system — check your host’s control panel for details. You will also need a code editor like [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or [Notepad++](https://notepad-plus-plus.org/), and an FTP app like [FileZilla](https://filezilla-project.org/) or [Transmit](https://panic.com/transmit/) for easy transfer of your files to your server. You may also use your webhost's built in FTP or code editing tools.
 
 * [Learn more about the requirements.](http://www.getgrawlix.com/docs/1/requirements) 
-* [New to FTP and web hosting?] (http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/) Check out our easy to follow walkthrough on installing the Grawlix CMS by Jordan Rodriguez
+*<a href="http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/">here</a> New to FTP and web hosting?. [New to FTP and web hosting?] (http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/) Check out our easy to follow walkthrough on installing the Grawlix CMS by Jordan Rodriguez
 * Run into a bug? [Report it](http://www.grawlixdevblog.com/bugs-report/)
 
 # Installating the Grawlix CMS for the first time
-1.Everything you need to know to install and run the Grawlix CMS can be found [here.](http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/)
-2. Download the latest version from the repo to get started.
+<ul>
+  <li>1.Everything you need to know to install and run the Grawlix CMS can be found [here.](http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/)</li>
+  <li>2. Download the latest version from the repo to get started.</li>
+  </ul>
 
 # Upgrading from to 1.5.1
 1. Make a backup of your site and, if possible, your database.
