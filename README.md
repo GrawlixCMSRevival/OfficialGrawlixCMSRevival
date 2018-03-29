@@ -26,7 +26,9 @@ Among other changes and fixes, versions 1.3 and 1.4 make significant changes to 
 7. All of this will be covered in the README file in the grawlix-1.5.1.zip
 
 # More info & support
-*[Read the docs](http://www.getgrawlix.com/docs)
-*[Follow the devblog](http://www.grawlixdevblog.com/)
+<ul>
+  <li>*[Read the docs](http://www.getgrawlix.com/docs)</li>
+  <li>*[Follow the devblog](http://www.grawlixdevblog.com/)</li>
+  </ul>
 
 — Grawlix CMS Revival Team
