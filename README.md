@@ -19,7 +19,7 @@ The Grawlix CMS requires a web host with PHP5 and MySQL. You’ll need a databas
   <li>2. Download the latest version from the repo to get started.</li>
   </ul>
 
-# Upgrading from to 1.5.1
+# Upgrading from 1.1 to 1.5.1
 1. Make a backup of your site and, if possible, your database.
 2. Upload the _system and _admin folders to your site, replacing the old versions.
 3. Upload the functions.inc.php and index.php files into your site’s root directory.
