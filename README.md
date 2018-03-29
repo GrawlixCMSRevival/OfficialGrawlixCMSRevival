@@ -1,8 +1,7 @@
 <p>There are some repos on GitHub currently supporting the development of the Grawlix CMS. Very grateful for them, but going forward, this repo is going to serve as the official repo for Grawlix CMS development. Nothing personal.</p>
 
 
-# Welcome to the Grawlix CMS Revival.
-This is the official repo hub for the revival of the Grawlix CMS for webcomic hosting.
+# Welcome to the Grawlix CMS Revival. This is the official repo hub for the revival of the Grawlix CMS for webcomic hosting.
 For those unaware, the Grawlix CMS is a tool that helps comic artist publish and manage their own website to host their webcomic without needing to learn any code. Follow along with this readme to get started.
 
 # Requirements
@@ -14,7 +13,7 @@ The Grawlix CMS requires a web host with PHP5 and MySQL. You’ll need a databas
 
 # Installating the Grawlix CMS for the first time
 1.Everything you need to know to install and run the Grawlix CMS can be found [here.](http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/)
-2.Download the latest version from the repo to get started.
+2. Download the latest version from the repo to get started.
 
 # Upgrading from to 1.5.1
 1. Make a backup of your site and, if possible, your database.
