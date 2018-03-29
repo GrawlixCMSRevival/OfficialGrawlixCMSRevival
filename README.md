@@ -13,9 +13,9 @@ The Grawlix CMS requires a web host with PHP5 and MySQL. You’ll need a databas
 <li>Run into a bug? <a href="http://www.grawlixdevblog.com/bugs-report/">Report it</a>.</li>
 </ul>
 
-# Installating the Grawlix CMS for the first time
+# Installating the Grawlix CMS for the first time?
 <ul>
-  <li>1.Everything you need to know to install and run the Grawlix CMS can be found [here.](http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/)</li>
+  <li>1.Everything you need to know to install and run the Grawlix CMS can be found <a href="http://www.thedaemoschronicles.com/grawlix-cms-setup-walkthrough/">here</a>.</li>
   <li>2. Download the latest version from the repo to get started.</li>
   </ul>
 
